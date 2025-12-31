@@ -20,6 +20,8 @@
 Starting from 3.0.0, JsSIP no longer includes the [rtcninja](https://github.com/eface2face/rtcninja.js/) module. However, the [jssip-rtcninja](https://www.npmjs.com/package/jssip-rtcninja) package is based on the `2.0.x` branch, which does include `rtcninja`.
 
 
+This is a correction of issue for failure to send authentication packet after the challenge from sip server
+
 ## Support
 
 * For questions or usage problems please use the **jssip** [public Google Group](https://groups.google.com/forum/#!forum/jssip).
